@@ -1,3 +1,5 @@
+#DEPRECATED: already merged to original project
+
 [![Build Status](https://travis-ci.org/Matt-Jensen/ember-cli-g-maps.svg)](https://travis-ci.org/Matt-Jensen/ember-cli-g-maps)
 [![Ember Observer Score](http://emberobserver.com/badges/ember-cli-g-maps.svg)](http://emberobserver.com/addons/ember-cli-g-maps)
 
